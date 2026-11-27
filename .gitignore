@@ -1,0 +1,6 @@
+# local secrets and host-specific settings
+.env
+# prototype inputs/outputs (third-party images, generated files)
+prototype/input/
+prototype/out/
+__pycache__/
